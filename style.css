@@ -37,6 +37,7 @@ h1 {
 .nav a:hover {
   background-color: #e06d53;
   color: #fff;
+  transition: 0.3s ease;
 }
 
 
